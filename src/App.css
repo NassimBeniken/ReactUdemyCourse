@@ -13,6 +13,12 @@
   }
 }
 
+.input {
+  border-width: 2px;
+  border-radius: 3px;
+  border-color: blueviolet;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -26,6 +32,10 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.container {
+  text-align: center;
 }
 
 @keyframes App-logo-spin {
